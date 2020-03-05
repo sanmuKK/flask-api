@@ -1,4 +1,4 @@
-# flask-api
+# flask-api（api文档网址为：www.showdoc.cc/ljl）
 
 ## flask+uwsgi+nginx
 
