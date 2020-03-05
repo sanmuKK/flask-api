@@ -1,5 +1,5 @@
 # flask-api（api文档网址为：www.showdoc.cc/ljl）
-
+## 在centos上部署
 ## flask+uwsgi+nginx
 
 ## 服务器
